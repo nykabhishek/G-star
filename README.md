@@ -1,4 +1,4 @@
 # G-star
-G*: A New Bounding Approach for the Curvature Constrained Shortest Path Problem
+G*: A novel method for bounding Curvature Constrained Shortest Path Problem using Dubins Gates
 
 Coming soon...
