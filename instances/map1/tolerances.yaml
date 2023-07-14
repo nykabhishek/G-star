@@ -1,0 +1,4 @@
+continuity: 0.1
+angular: 15
+polygon_intersection: 0.7
+circle_intersection_ratio: 0.5
