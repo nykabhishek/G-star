@@ -5,11 +5,14 @@ This repo contains the code for a new approach to bounding curvature constrained
 For more details, please see our paper [G*: A New Approach to Bounding Curvature Constrained Shortest Paths through Dubins Gates](https://roboticsconference.org/program/papers/059/) which has been accepted at [RSS 2023](https://www.roboticsproceedings.org/rss19/index.html). If this code is useful for your work, please cite our paper:
 
 ```
-@inproceedings{Manyam2023GAN,
-  title={G*: A New Approach to Bounding Curvature Constrained Shortest Paths through Dubins Gates},
-  author={Satyanarayana Gupta Manyam and Abhishek Nayak and Sivakumar Rathinam},
-  booktitle={Robotics: Science and Systems},
-  year={2023}
+@INPROCEEDINGS{Manyam-RSS-23, 
+    AUTHOR    = {Satyanarayana  Gupta Manyam AND Abhishek Nayak AND Sivakumar  Rathinam}, 
+    TITLE     = {{G*: A New Approach to Bounding Curvature Constrained Shortest Paths through Dubins Gates}}, 
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+    YEAR      = {2023}, 
+    ADDRESS   = {Daegu, Republic of Korea}, 
+    MONTH     = {July}, 
+    DOI       = {10.15607/RSS.2023.XIX.059} 
 }
 ``` 
 
